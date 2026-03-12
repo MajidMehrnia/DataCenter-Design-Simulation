@@ -1,7 +1,7 @@
 # Advanced Thermal Management for Data Centers
 <tr>
     <td class="text-column" width=1200>The project contains utilities 
-    that help you build and analyze a data center from a thermal management 
+    to build and analyze a data center from a thermal management 
     perspective.
     </td>
   </tr>
