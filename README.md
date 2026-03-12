@@ -5,6 +5,7 @@
     perspective.
     </td>
   </tr>
+  
 ## Recommended Toolchain for Data Center Cooling System Modeling
 
 A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
