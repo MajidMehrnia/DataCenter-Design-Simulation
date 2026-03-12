@@ -33,6 +33,30 @@ A professional workflow for modeling and optimizing data center cooling systems 
 
 <hr color="gray" size="10">
 
+## Create & Analyze Datacenter for HVAC Requirements.
+<table>
+  <tr>
+    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeDatacenterModelREADME.png" alt="Datacenter Heat Load Analysis"></td>
+    <td class="image-column" width=400><img src="Workflow/DatacenterUtilizationAnalysis/datacenterSchematic01.png" alt="Datacenter Heat Load Analysis"></td>
+    <td class="text-column" width=25></td>
+    <td class="text-column" width=375>With increasing AI demand and utilization of 
+    datacenters, learn how to balance datacenter utilization from a thermal (and 
+    grid load) perspective. Evaluate the impact on energy consumption for a datacenter. 
+    Learn how to build a large datacenter quickly using utilities 'buildDatacenter' 
+    and 'buildEnclosureForDatacenter'.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td class="text-column" width=1200></td>
+  </tr>
+</table>
+ 
+<hr color="gray" size="10">
+
+<hr color="gray" size="10">
+
 ## Create Building Library.
 <table>
   <tr>
@@ -76,29 +100,7 @@ A professional workflow for modeling and optimizing data center cooling systems 
 
 <hr color="gray" size="10">
 
-## Create & Analyze Datacenter for HVAC Requirements.
-<table>
-  <tr>
-    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeDatacenterModelREADME.png" alt="Datacenter Heat Load Analysis"></td>
-    <td class="image-column" width=400><img src="Workflow/DatacenterUtilizationAnalysis/datacenterSchematic01.png" alt="Datacenter Heat Load Analysis"></td>
-    <td class="text-column" width=25></td>
-    <td class="text-column" width=375>With increasing AI demand and utilization of 
-    datacenters, learn how to balance datacenter utilization from a thermal (and 
-    grid load) perspective. Evaluate the impact on energy consumption for a datacenter. 
-    Learn how to build a large datacenter quickly using utilities 'buildDatacenter' 
-    and 'buildEnclosureForDatacenter'.</td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td class="text-column" width=1200></td>
-  </tr>
-</table>
- 
-<hr color="gray" size="10">
-
-<hr color="gray" size="10">
 
 ## To Get Started 
 * Clone the project repository.
