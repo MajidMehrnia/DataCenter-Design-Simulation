@@ -3,11 +3,18 @@
     <td class="text-column" width=1200>This project provides a framework for modeling and analyzing data center cooling systems with a focus on thermal management and system performance.
     </td>
   </tr>
-  ![Uploading hvac 19.png…]()
+  
+<img width="1185" height="811" alt="Hvac 1" src="https://github.com/user-attachments/assets/eb4a2a74-1117-4e1f-939e-a0e61eb44b5e" />
+
+<img width="1022" height="636" alt="hvac 12" src="https://github.com/user-attachments/assets/b4bd5d52-ef38-4c70-a8ce-2386e049abce" />
+
 
 ## Recommended Toolchain for Data Center Cooling System Modeling
 
 A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
+
+<img width="1450" height="566" alt="Velocity cut plot" src="https://github.com/user-attachments/assets/16b48fac-e350-4bc2-9020-c16897e02634" />
+
 
 | System Layer | Tool | Purpose |
 |---|---|---|
@@ -15,6 +22,7 @@ A professional workflow for modeling and optimizing data center cooling systems 
 | Cooling System Loop | Simscape Fluids | System-level modeling of coolant loops, pumps, heat exchangers, and thermal networks |
 | Control Systems | Simulink | Development and testing of control strategies for cooling equipment (fans, pumps, chillers) |
 | Optimization & Analysis | MATLAB | Parameter studies, system optimization, and performance analysis |
+
 
 ### Modeling Architecture
 [![View Building Energy Management System with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://mathworks.com/matlabcentral/fileexchange/175604-building-energy-management-system-with-simscape)
