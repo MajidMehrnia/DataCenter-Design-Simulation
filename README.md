@@ -8,11 +8,13 @@
 
 <p align="center">
   <strong>Data Center Base Layout (Designed in AutoCAD)</strong>
-<img width="1185" height="811" alt="Hvac 1" src="https://github.com/user-attachments/assets/eb4a2a74-1117-4e1f-939e-a0e61eb44b5e" />
+</p>
+
+<p align="center">
+ <img width="1185" height="811" alt="Hvac 1" src="https://github.com/user-attachments/assets/eb4a2a74-1117-4e1f-939e-a0e61eb44b5e" />
 
 <img width="1022" height="636" alt="hvac 12" src="https://github.com/user-attachments/assets/b4bd5d52-ef38-4c70-a8ce-2386e049abce" />
 
-</p>
 
 
 
