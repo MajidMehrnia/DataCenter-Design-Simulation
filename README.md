@@ -3,7 +3,8 @@
     <td class="text-column" width=1200>This project provides a framework for modeling and analyzing data center systems with a focus on thermal management and mechanical system performance.
     </td>
   </tr>
-  *Designed the base layout of a data center using AutoCAD, including space planning and system integration considerations*
+  
+*Designed the base layout of a data center using AutoCAD, including space planning and system integration considerations*
 <img width="1185" height="811" alt="Hvac 1" src="https://github.com/user-attachments/assets/eb4a2a74-1117-4e1f-939e-a0e61eb44b5e" />
 
 <img width="1022" height="636" alt="hvac 12" src="https://github.com/user-attachments/assets/b4bd5d52-ef38-4c70-a8ce-2386e049abce" />
