@@ -7,7 +7,7 @@
 <br><br>
 
 <p align="center">
-  <strong>Data Center Base Layout (Designed in AutoCAD)</strong>
+  <strong>Data Center Base Layout (BIM-model)</strong>
 </p>
 <p align="center">
  <img width="1185" height="811" alt="Hvac 1" src="https://github.com/user-attachments/assets/eb4a2a74-1117-4e1f-939e-a0e61eb44b5e" />
