@@ -5,6 +5,7 @@
  </tr>
 
 <br><br>
+<img width="965" height="761" alt="image" src="https://github.com/user-attachments/assets/9ffe9884-58f6-47cb-b335-134c25a34ab8" />
 
 <p align="center">
   <strong>Data Center Base Layout (BIM-model)</strong>
